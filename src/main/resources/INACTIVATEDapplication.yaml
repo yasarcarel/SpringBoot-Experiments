@@ -1,0 +1,7 @@
+#server:
+#  port: 8080
+#  address:
+#  http2:
+#    enabled:
+#
+#burada farklı yazım şekli olan ,application.properties yapısı ile aynı işi yapan yaml yapısı gösterilmiştir
